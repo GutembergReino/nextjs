@@ -65,10 +65,24 @@
   background-color: rgba(var(--callout-rgb), 0.5);
   border: 1px solid rgba(var(--callout-border-rgb), 0.3);
   border-radius: var(--border-radius);
-  width: 100%; /* Definindo a largura para 100% */
-  text-align: center; /* Centralizando o texto */
+  width: 100%;
+  text-align: center;
 }
 
+.description p.completed {
+  text-decoration: line-through;
+}
+
+/* Adicione o estilo para o botão de marcação */
+button {
+  background-color: #0070f3;
+  color: #ffffff;
+  border: none;
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  margin-left: 1rem;
+  cursor: pointer;
+}
 
 .grid {
   display: grid;
