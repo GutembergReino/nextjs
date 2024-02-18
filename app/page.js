@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.description}>
-        <Link href="/sfn">
+        <Link href="https://www.estrategiaconcursos.com.br/curso/bnb-analista-bancario-pacote-completo-2024-pos-edital/">
             <p>
               <code className={styles.code}>1 Sistema Financeiro Nacional.</code>
             </p>
@@ -61,7 +61,7 @@ export default function Home() {
         </Link>
       </div>
       <div className={styles.description}>
-        <Link href="/atualidades-mercado-financeiro">
+        <Link href="https://youtube.com/playlist?list=PL-semAO9myys3B7N3ewy-5PoMlnM0q0D_&si=bgyY7m5unZnYnZuy">
             <p>
               <code className={styles.code}>9 Atualidades do mercado financeiro</code>
             </p>
