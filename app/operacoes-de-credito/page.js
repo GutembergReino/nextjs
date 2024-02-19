@@ -29,7 +29,7 @@ export default function OperacoesDeCredito() {
           <Link href="https://www.youtube.com/watch?v=TZ_EBhm8RKU">2.2.3 Forma de tributação.</Link>
         </p>
         <p>
-          <Link href="/mandatos-procuracoes">2.2.4 Mandatos e procurações.</Link>
+          <Link href="https://www.youtube.com/watch?v=DKNwf9mY2XI">2.2.4 Mandatos e procurações.</Link>
         </p>
         <p>
           <Link href="/fundamentos-credito">2.3 Fundamentos do crédito.</Link>
