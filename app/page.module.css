@@ -5,7 +5,6 @@
 }
 
 .header {
-  background-color: #ffffff; /* Cor de fundo do cabeçalho */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra */
   padding: 1rem; /* Espaçamento interno */
   position: fixed; /* Posição fixa */
