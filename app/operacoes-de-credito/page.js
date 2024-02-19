@@ -12,21 +12,21 @@ export default function OperacoesDeCredito() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          <Link href="/cadastro-pessoas-fisicas">2.1 Cadastro de pessoas físicas.</Link>
+          <Link href="https://youtu.be/epQmP2g9tlA?si=QUztyfHUSYwNU6x9">2.1 Cadastro de pessoas físicas.</Link>
         </p>
         <p>
-          <Link href="/cadastro-pessoas-juridicas">2.2 Cadastro de pessoas jurídicas.</Link>
+          <Link href="https://youtu.be/epQmP2g9tlA?si=QUztyfHUSYwNU6x9">2.2 Cadastro de pessoas jurídicas.</Link>
         </p>
         <p>
-          <Link href="/tipos-constituicao-pessoas-juridicas">2.2.1 Tipos e constituição das pessoas.</Link>
+          <Link href="https://youtu.be/P0Jz_hzp1f4?si=3BvFMWdV5yM7Mwkh">2.2.1 Tipos e constituição das pessoas.</Link>
         </p>
         <p>
-          <Link href="/composicao-societaria">
+          <Link href="https://youtu.be/P0Jz_hzp1f4?si=3BvFMWdV5yM7Mwkh">
             2.2.2 Composição societária/acionária.
           </Link>
         </p>
         <p>
-          <Link href="/forma-tributacao">2.2.3 Forma de tributação.</Link>
+          <Link href="https://www.youtube.com/watch?v=TZ_EBhm8RKU">2.2.3 Forma de tributação.</Link>
         </p>
         <p>
           <Link href="/mandatos-procuracoes">2.2.4 Mandatos e procurações.</Link>
