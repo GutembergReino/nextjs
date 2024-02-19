@@ -26,22 +26,22 @@ export default function Home() {
               <code className={styles.code}>4 Aspectos jurídicos.</code>
             </p>
         </Link>
-        <Link href="https://www.bnb.gov.br">
+        <Link href="https://pt.wikipedia.org/wiki/Banco_do_Nordeste">
             <p>
               <code className={styles.code}>5 O Banco do Nordeste do Brasil S.A.: legislação básica, programas e informações gerais de sua atuação como agente impulsionador do desenvolvimento sustentável da região nordeste.</code>
             </p>
         </Link>
-        <Link href="/etica-aplicada">
+        <Link href="https://www.bnb.gov.br/integridade-e-etica">
             <p>
               <code className={styles.code}>6 Ética aplicada: ética, moral, valores e virtudes.</code>
             </p>
         </Link>
-        <Link href="https://www.bnb.gov.br">
+        <Link href="https://www.bnb.gov.br/sustentabilidade/politica-de-responsabilidade-social-ambiental-e-climatica">
             <p>
               <code className={styles.code}>7 Política de Responsabilidade Socioambiental do Banco do Nordeste do Brasil (disponível na página do BNB na internet)</code>
             </p>
         </Link>
-        <Link href="https://www.bnb.gov.br">
+        <Link href="https://www.bnb.gov.br/sustentabilidade/estrategia-asg/gestao-socialmente-responsavel">
             <p>
               <code className={styles.code}>8 Estratégia ASG (Ambiental, Social e Governança): Estratégia de sustentabilidade do Banco do Nordeste do Brasil (disponível na página do BNB na internet).</code>
             </p>
@@ -51,6 +51,8 @@ export default function Home() {
               <code className={styles.code}>9 Atualidades do mercado financeiro</code>
             </p>
         </Link>
+      <Link href="https://materiasparaconcursos.com.br/2021/09/20/etica-moral-valores-e-virtudes/">materias </Link>
+      <Link href="https://www.youtube.com/watch?v=UK2pToylSPc&list=PL-semAO9myyuusJG9V_DfIPZz5yaPiXYm">materias yt</Link>
       </div>
     </main>
     </div>
